@@ -109,6 +109,8 @@ npm start
 - The app works offline for viewing entries, but AI insights require internet connection
 - 
 
-## Demo Link
-- https://youtu.be/6p1WklmRmGs
+## Links
+- Demo: https://youtu.be/6p1WklmRmGs
+- Live App: https://mood-tracker-six-phi.vercel.app/
+
 
