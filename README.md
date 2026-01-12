@@ -107,3 +107,8 @@ npm start
 - All journal entries are private and stored on your machine
 - AI insights require a Google Gemini API key (free tier available)
 - The app works offline for viewing entries, but AI insights require internet connection
+- 
+
+## Demo Link
+- https://youtu.be/Ns7uABqJ_XE
+
